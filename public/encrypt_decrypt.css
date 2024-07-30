@@ -1,0 +1,22 @@
+h1{
+    color: #186ec3;
+    font-size: 20px;
+}
+h1 a{
+    color: #186ec3;
+    font-size: 20px;
+}
+body{
+    background-color: #000;
+}
+div{
+    width: 110vh;
+    background: transparent;
+    margin: 40vh 0 0  40vh;
+    backdrop-filter: blur(30px);
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    box-shadow: 0px 0px 40px 10px #032648;
+    border:2px solid #186ec3;
+  }
